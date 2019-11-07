@@ -9,5 +9,6 @@ public class FirstClass {
     public void show(){
         String sql="你是个憨批";
         System.out.println(sql);
+        System.out.println("ni");
     }
 }

@@ -6,4 +6,8 @@ public class FirstClass {
         System.out.println("hello.git");
         System.out.println("阿牛撒有,git");
     }
+    public void show(){
+        String sql="你是个憨批";
+        System.out.println(sql);
+    }
 }
